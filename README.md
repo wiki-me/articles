@@ -1,2 +1,2 @@
 # articles
-A few articles about stuff
+Thoughts about managing open source projects.
