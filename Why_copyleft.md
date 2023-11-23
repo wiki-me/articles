@@ -12,3 +12,14 @@ Linus torvalds (creator of linux) [called](https://www.cio.com/article/3112582/l
 I think what makes copleft work well is that it provides a strong incentive to contribute back (based on casual observation , there appears to be a correlation between a large project being copyleft and it being high quality), it is analogical to a "tit for tat" strategy which [reportedly](https://fs.blog/tit-for-tat/) the most effective for at least some games in game theory.
 
 However there are some cases where a permissive license might be better (even the FSF [agrees](https://www.gnu.org/licenses/license-recommendations.html)).
+
+Further reading:
+
+[A typical discussion of licensing, ending with the project converting to a copyleft license.
+](https://www.reddit.com/r/opensource/comments/17y64wu/i_built_an_opensource_tool_to_create_courses_like/k9rnv5v/)
+
+[Open source licensing and why we're changing Plausible to the AGPL license
+](https://plausible.io/blog/open-source-licenses)
+
+[
+Changing to AGPLv3 and introducing the Enterprise Edition](https://cal.com/blog/changing-to-agplv3-and-introducing-enterprise-edition)
