@@ -1,2 +1,2 @@
 # articles
-Thoughts about managing open source projects.
+Thoughts about open source projects.
