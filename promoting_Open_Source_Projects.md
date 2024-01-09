@@ -6,6 +6,8 @@ Ask a community member to add it to [slant.co](https://www.slant.co/) (you can't
 
 Mention attractive features or qualities of the project, on the website/readme pages or on slant.co pros and cons lists or alternativeto reviews.
 
+Similarly in the release notes of a release try to add a section called "highlights" with especially attractive improvements, some users will probably not go over a long list of changes. 
+
 add topics to the github or codeberg or whatever repository .
 
 Link to the those pages from your website and ask for good reviews and likes.
