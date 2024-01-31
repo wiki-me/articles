@@ -23,3 +23,5 @@ Further reading:
 
 [
 Changing to AGPLv3 and introducing the Enterprise Edition](https://cal.com/blog/changing-to-agplv3-and-introducing-enterprise-edition)
+
+[The Land Before Linux: Let's talk about the Unix desktops](https://www.theregister.com/2024/01/27/opinion_column/) - On why the permissive BSD license arguably caused the failure of BSD based operation systems and the success of Linux
