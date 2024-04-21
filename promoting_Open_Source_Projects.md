@@ -15,3 +15,9 @@ Link to the those pages from your website and ask for good reviews and likes.
 Post to reddit or hacker news or lemmy, don't do it too frequently and the posts should have significant value, once a year seems like a pretty safe bet. saying you are the author and answering questions is also good.
 
 Use [star track](https://seladb.github.io/StarTrack-js/) to measure the success of your promotion efforts and see what works in practice. Consider developing other metrics like website page hits or measuring number of active users like shown on [the-federation](https://the-federation.info/platform/73).
+
+
+further reading:
+
+[How Plane, an open-source alternative to Jira, got to the #1 in project management on GitHub in less than a year
+](https://plane.so/blog/how-we-got-to-20k-github-stars)
