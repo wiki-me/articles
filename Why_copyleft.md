@@ -11,7 +11,7 @@ Linus torvalds (creator of linux) [called](https://www.cio.com/article/3112582/l
 
 I think what makes copleft work well is that it provides a strong incentive to contribute back (based on casual observation , there appears to be a correlation between a large project being copyleft and it being high quality), it is analogical to a "tit for tat" strategy which is [reportedly](https://fs.blog/tit-for-tat/) the most effective for at least some games in game theory.
 
-Also i think a dislike for inequality (even just a percieved one) seems deeply ingrained in us, that's true for [even monkeys](https://www.youtube.com/watch?v=meiU6TxysCg).
+Also i think a dislike for inequality (even just a perceived one) seems deeply ingrained in us, that's true for [even monkeys](https://www.youtube.com/watch?v=meiU6TxysCg).
 
 However there are some cases where a permissive license might be better (even the FSF [agrees](https://www.gnu.org/licenses/license-recommendations.html)).
 
