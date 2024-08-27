@@ -1,6 +1,6 @@
 A few suggestions:
 
-Add it to alternativeto.net , [reportedly](https://github.com/liberapay/liberapay.com/issues/269#issue-148864159) it is one of liberapay top referrers.
+Add it to alternativeto.net , [reportedly](https://github.com/liberapay/liberapay.com/issues/269#issue-148864159) it is one of liberapay top referrers. It is also one of the top referrers of [join-mastodon](https://joinmastodon.org/). You can see the referring websites using [similarweb](https://www.similarweb.com/).
 
 Mention attractive features or qualities of the project, on the website/readme pages or on alternativeto reviews.
 
