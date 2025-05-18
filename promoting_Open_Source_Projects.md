@@ -12,7 +12,7 @@ Link to review platforms (like alternativeto or google play) from your website a
 
 Post to reddit or hacker news or lemmy, don't do it too frequently and the posts should have significant value, once a year seems like a pretty safe bet. saying you are the author and answering questions is also good.
 
-Use [star track](https://seladb.github.io/StarTrack-js/) to measure the success of your promotion efforts and see what works in practice. Consider developing other metrics like website page hits or measuring number of active users like shown on [the-federation](https://the-federation.info/platform/73).
+Use [star track](https://seladb.github.io/StarTrack-js/) to measure the success of your promotion efforts and see what works in practice. Consider developing other metrics like website page hits or measuring number of active users like shown on [fediverse observer](https://lemmy.fediverse.observer/stats).
 
 
 further reading:
