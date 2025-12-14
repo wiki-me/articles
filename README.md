@@ -12,3 +12,5 @@ Feel free to open an issue if you have feedback or corrections. i might not be a
 [why digital currencies can be good for FOSS](https://github.com/wiki-me/articles/blob/main/articles_src/why_digital_currencies_can_be_good_for_FOSS.md)
 
 [wayland criticism and counter arguments](https://github.com/wiki-me/articles/blob/main/articles_src/wayland_criticism_and_counter_arguments.md)
+
+[The debian project needs a reform in its governance to compete better with closed source products](https://github.com/wiki-me/articles/blob/main/articles_src/debian__needs__reform.md)
