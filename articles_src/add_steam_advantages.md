@@ -1,4 +1,4 @@
-#why you should add your game to steam
+# why you should add your game to steam
 
 Why I think it will be beneficial:
 
