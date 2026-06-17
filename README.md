@@ -9,6 +9,9 @@ Feel free to open an issue if you have feedback or corrections. i might not be a
 
 [the best open source software is easily extendable open source software](https://github.com/wiki-me/articles/blob/main/articles_src/best_FOSS_software_is_extendable.md)
 
+[Why bounties can be great for open source projects
+](https://github.com/wiki-me/articles/blob/main/articles_src/bounties_great.md)
+
 [The Why and How of Not Treating AI as Snake Oil
 ](https://github.com/wiki-me/articles/blob/main/articles_src/AI_as_snake_oil.md)
 
