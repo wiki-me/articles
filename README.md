@@ -20,11 +20,11 @@ Feel free to open an issue if you have feedback or corrections. i might not be a
 [Because today virtually any software can potentially run on cloud services, the gpl is mostly obsolete, use the AGPL
 ](https://github.com/wiki-me/articles/blob/main/articles_src/AGPL_should_replace_GPL.md)
 
-[wayland criticism and counter arguments](https://github.com/wiki-me/articles/blob/main/articles_src/wayland_criticism_and_counter_arguments.md)
+[Dealing with anxiety and other stressors in FOSS
+](https://github.com/wiki-me/articles/blob/main/articles_src/dealing_with_anxiety_in_foss.md)
 
 [The debian project needs a reform in its governance to compete better with closed source products](https://github.com/wiki-me/articles/blob/main/articles_src/debian__needs__reform.md)
 
 [The advantages of adding a game to steam (and maybe gog.com)](https://github.com/wiki-me/articles/blob/main/articles_src/add_steam_advantages.md)
 
-[Dealing with anxiety and other stressors in FOSS
-](https://github.com/wiki-me/articles/blob/main/articles_src/dealing_with_anxiety_in_foss.md)
+[wayland criticism and counter arguments](https://github.com/wiki-me/articles/blob/main/articles_src/wayland_criticism_and_counter_arguments.md)
