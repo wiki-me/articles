@@ -28,3 +28,5 @@ Feel free to open an issue if you have feedback or corrections. i might not be a
 [The advantages of adding a game to steam (and maybe gog.com)](https://github.com/wiki-me/articles/blob/main/articles_src/add_steam_advantages.md)
 
 [wayland criticism and counter arguments](https://github.com/wiki-me/articles/blob/main/articles_src/wayland_criticism_and_counter_arguments.md)
+
+[Wikipedia governance model is highly vulnerable to foreign propaganda](https://github.com/wiki-me/articles/blob/main/articles_src/wikipedia_highly_vulnerable.md)
