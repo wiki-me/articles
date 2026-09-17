@@ -1,4 +1,4 @@
-# Why your project should be under a copyleft license?
+# Why your project should be under a copyleft license, and not a permissive license like MIT or Apache.
 
 it's is helpful as it prevents some company from forking the code, closing it and then “defeating” your project using aggressive marketing or dirty business practices (wine had companies that forked the code and not give back which eventually led to it being relicensed under the LGPL).
 
