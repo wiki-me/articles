@@ -23,10 +23,13 @@ Feel free to open an issue if you have feedback or corrections. i might not be a
 [Dealing with anxiety and other stressors in FOSS
 ](https://github.com/wiki-me/articles/blob/main/articles_src/dealing_with_anxiety_in_foss.md)
 
+[Suggestions for dealing with AI operated accounts and too many low quality AI contributions](https://github.com/wiki-me/articles/blob/main/articles_src/dealing_with_low_quality_ai_contributions.md)
+
+[Wikipedia governance model is highly vulnerable to foreign propaganda](https://github.com/wiki-me/articles/blob/main/articles_src/wikipedia_highly_vulnerable.md)
+
 [The debian project needs a reform in its governance to compete better with closed source products](https://github.com/wiki-me/articles/blob/main/articles_src/debian__needs__reform.md)
 
 [The advantages of adding a game to steam (and maybe gog.com)](https://github.com/wiki-me/articles/blob/main/articles_src/add_steam_advantages.md)
 
 [wayland criticism and counter arguments](https://github.com/wiki-me/articles/blob/main/articles_src/wayland_criticism_and_counter_arguments.md)
 
-[Wikipedia governance model is highly vulnerable to foreign propaganda](https://github.com/wiki-me/articles/blob/main/articles_src/wikipedia_highly_vulnerable.md)
